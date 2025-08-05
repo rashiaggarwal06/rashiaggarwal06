@@ -3,7 +3,6 @@
 🎓 Final-year B.Tech student | 💻 Aspiring Software Developer  
 🔬 Passionate about Data Structures, AI, Web Development & Women’s Safety Tech
 
----
 
 ### 💡 About Me
 - 🔭 Currently working on: **AI-Powered Women’s Safety Web App**
@@ -15,8 +14,6 @@
 - 🏆 Highlights:  
   - 200+ Days of Code Consistency  
   - Attendee: IEEE Research & Paper Workshop  
-
----
 
 ### 🚀 Projects
 
@@ -56,16 +53,12 @@ A fun interactive game in the browser
 Features:
 - Player vs Computer, Scoreboard, Real-time results
 
----
-
 ### 📈 GitHub Stats
 ![Rashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashiaggarwal06&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashiaggarwal06&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rashiaggarwal06&theme=default)
-
----
 
 ### 📚 Currently Sharpening
 - ✅ Data Structures & Algorithms (Leetcode, GFG)
@@ -74,11 +67,7 @@ Features:
 - ✅ Backend API Development with Node.js
 - ✅ AI/ML Fundamentals for Web Integration
 
----
-
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rashiaggarwal06/)  
-
----
 
 > *“Code with purpose. Build with passion. Protect with tech.”*
